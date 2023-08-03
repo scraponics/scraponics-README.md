@@ -9,11 +9,11 @@
 
 - [About](#about)
   - [Motive](#Motive)
-- [Tech Stack](#tech-stack)
-- [tools](#tools)
 - [Scraponics Repositories](#folder-structure)
   - [Frontend](#frontend)
   - [Backend](#backend)
+- [Tech Stack](#tech-stack)
+- [tools](#tools)
 
 </details>
 
@@ -65,6 +65,10 @@ of Circular Economy
 </tr>
 </table>
 
+### 📁 Scraponics Repository: 
+- <a href="https://github.com/scraponics/scraponics__frontend">🖵 frontend<a/>
+- <a href="https://github.com/scraponics/scraponics__backend">🖥️ backend<a/>
+
 
 ### 💻 Tech Stack:
 
@@ -82,7 +86,3 @@ of Circular Economy
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-
-### 📁 Scraponics Repository: 
-- <a href="https://github.com/scraponics/scraponics__frontend">🖵 frontend<a/>
-- <a href="https://github.com/scraponics/scraponics__backend">🖥️ backend<a/>
